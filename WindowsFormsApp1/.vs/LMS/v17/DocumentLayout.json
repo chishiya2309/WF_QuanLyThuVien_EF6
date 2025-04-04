@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\WindowsFormsApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{02CCA080-A0B6-44E6-BB37-6381148C4203}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\workspace\\wf_project_librarymanagement_entityframework\\dataaccesslayer\\sachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CCA080-A0B6-44E6-BB37-6381148C4203}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\workspace\\wf_project_librarymanagement_entityframework\\dataaccesslayer\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CCA080-A0B6-44E6-BB37-6381148C4203}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\workspace\\wf_project_librarymanagement_entityframework\\dataaccesslayer\\danhmucsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CCA080-A0B6-44E6-BB37-6381148C4203}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\workspace\\wf_project_librarymanagement_entityframework\\dataaccesslayer\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B811999F-F9D2-4CAF-AC18-E3DBA1459E67}|..\\BusinessAccessLayer\\BusinessAccessLayer.csproj|d:\\workspace\\wf_project_librarymanagement_entityframework\\businessaccesslayer\\dbthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,9 +31,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{B811999F-F9D2-4CAF-AC18-E3DBA1459E67}|..\\BusinessAccessLayer\\BusinessAccessLayer.csproj|d:\\workspace\\wf_project_librarymanagement_entityframework\\businessaccesslayer\\dbbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02CCA080-A0B6-44E6-BB37-6381148C4203}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\workspace\\wf_project_librarymanagement_entityframework\\dataaccesslayer\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\DAL\\DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -113,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -121,7 +130,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\DataAccessLayer\\Sach.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Sach.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\DataAccessLayer\\Sach.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Sach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:11:17.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SachContext.cs",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\DataAccessLayer\\SachContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\SachContext.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\DataAccessLayer\\SachContext.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\SachContext.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:03:46.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DanhMucSach.cs",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\DataAccessLayer\\DanhMucSach.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\DanhMucSach.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\DataAccessLayer\\DanhMucSach.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\DanhMucSach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:03:42.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DBThongKe.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\BusinessAccessLayer\\DBThongKe.cs",
               "RelativeDocumentMoniker": "..\\BusinessAccessLayer\\DBThongKe.cs",
@@ -134,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "DBStaff.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\BusinessAccessLayer\\DBStaff.cs",
               "RelativeDocumentMoniker": "..\\BusinessAccessLayer\\DBStaff.cs",
@@ -142,12 +190,11 @@
               "RelativeToolTip": "..\\BusinessAccessLayer\\DBStaff.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T04:49:00.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T04:49:00.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "DBMembers.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\BusinessAccessLayer\\DBMembers.cs",
               "RelativeDocumentMoniker": "..\\BusinessAccessLayer\\DBMembers.cs",
@@ -155,12 +202,11 @@
               "RelativeToolTip": "..\\BusinessAccessLayer\\DBMembers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T04:48:49.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T04:48:49.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "DBLoanAndReturn.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\BusinessAccessLayer\\DBLoanAndReturn.cs",
               "RelativeDocumentMoniker": "..\\BusinessAccessLayer\\DBLoanAndReturn.cs",
@@ -168,12 +214,11 @@
               "RelativeToolTip": "..\\BusinessAccessLayer\\DBLoanAndReturn.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T04:48:32.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T04:48:32.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "DAL.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\DataAccessLayer\\DAL.cs",
               "RelativeDocumentMoniker": "..\\DataAccessLayer\\DAL.cs",
@@ -186,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "DBCategory.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\BusinessAccessLayer\\DBCategory.cs",
               "RelativeDocumentMoniker": "..\\BusinessAccessLayer\\DBCategory.cs",
@@ -194,12 +239,11 @@
               "RelativeToolTip": "..\\BusinessAccessLayer\\DBCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T04:45:53.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T04:45:53.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "DBBooks.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\BusinessAccessLayer\\DBBooks.cs",
               "RelativeDocumentMoniker": "..\\BusinessAccessLayer\\DBBooks.cs",
@@ -207,12 +251,11 @@
               "RelativeToolTip": "..\\BusinessAccessLayer\\DBBooks.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T04:30:14.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T04:30:14.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "packages.config",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\DAL\\packages.config",
               "RelativeDocumentMoniker": "..\\DAL\\packages.config",
@@ -224,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "App.config",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\DAL\\App.config",
               "RelativeDocumentMoniker": "..\\DAL\\App.config",
@@ -236,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "SachContext.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\DAL\\SachContext.cs",
               "RelativeDocumentMoniker": "..\\DAL\\SachContext.cs",
@@ -248,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "DAL.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\DAL\\DAL.cs",
               "RelativeDocumentMoniker": "..\\DAL\\DAL.cs",
@@ -259,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "App.config",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\WindowsFormsApp1\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -271,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "Sach.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\DAL\\Sach.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Sach.cs",
@@ -283,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "DanhMucSach.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\DAL\\DanhMucSach.cs",
               "RelativeDocumentMoniker": "..\\DAL\\DanhMucSach.cs",
@@ -295,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "FormAddMember.cs [Design]",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\WindowsFormsApp1\\FormAddMember.cs",
               "RelativeDocumentMoniker": "FormAddMember.cs",
@@ -306,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "FormAddMember.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\WindowsFormsApp1\\FormAddMember.cs",
               "RelativeDocumentMoniker": "FormAddMember.cs",
@@ -318,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "FormEditCategory.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\WindowsFormsApp1\\FormEditCategory.cs",
               "RelativeDocumentMoniker": "FormEditCategory.cs",
@@ -330,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "FormEditCategory.cs [Design]",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\WindowsFormsApp1\\FormEditCategory.cs",
               "RelativeDocumentMoniker": "FormEditCategory.cs",
@@ -341,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "AdminControl_Categories.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\WindowsFormsApp1\\AdminControl_Categories.cs",
               "RelativeDocumentMoniker": "AdminControl_Categories.cs",
@@ -353,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "AdminControl_Categories.cs [Design]",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\WindowsFormsApp1\\AdminControl_Categories.cs",
               "RelativeDocumentMoniker": "AdminControl_Categories.cs",
@@ -364,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "MuonSach.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\WindowsFormsApp1\\MuonSach.cs",
               "RelativeDocumentMoniker": "MuonSach.cs",
@@ -376,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "MuonSach.cs [Design]",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\WindowsFormsApp1\\MuonSach.cs",
               "RelativeDocumentMoniker": "MuonSach.cs",
@@ -387,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "FormEditCategory.Designer.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\WindowsFormsApp1\\FormEditCategory.Designer.cs",
               "RelativeDocumentMoniker": "FormEditCategory.Designer.cs",
@@ -399,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "FormAddBook.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\WindowsFormsApp1\\FormAddBook.cs",
               "RelativeDocumentMoniker": "FormAddBook.cs",
@@ -411,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "FormAddBook.cs [Design]",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\WindowsFormsApp1\\FormAddBook.cs",
               "RelativeDocumentMoniker": "FormAddBook.cs",
@@ -422,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "AdminControl_Books.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\WindowsFormsApp1\\AdminControl_Books.cs",
               "RelativeDocumentMoniker": "AdminControl_Books.cs",
@@ -434,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "AdminControl_Books.cs [Design]",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\WindowsFormsApp1\\AdminControl_Books.cs",
               "RelativeDocumentMoniker": "AdminControl_Books.cs",
@@ -445,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "AdminControl_Member.cs",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\WindowsFormsApp1\\AdminControl_Member.cs",
               "RelativeDocumentMoniker": "AdminControl_Member.cs",
@@ -457,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "AdminControl_Member.cs [Design]",
               "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement_EntityFramework\\WindowsFormsApp1\\AdminControl_Member.cs",
               "RelativeDocumentMoniker": "AdminControl_Member.cs",
