@@ -13,10 +13,10 @@ namespace BusinessAccessLayer
 {
     public class DBLoanAndReturn
     {
-        DAL db = null;
+        DataAccessLayer.DAL db = null;
         public DBLoanAndReturn()
         {
-            db = new DAL();
+            db = new DataAccessLayer.DAL();
         }
 
         public DataSet LayPhieuMuon()

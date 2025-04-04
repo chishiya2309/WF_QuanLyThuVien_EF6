@@ -88,3 +88,4 @@ D:\Workspace\WF_Project_LibraryManagement_EntityFramework\WindowsFormsApp1\obj\D
 D:\Workspace\WF_Project_LibraryManagement_EntityFramework\WindowsFormsApp1\obj\Debug\Applicat.44B5EDA2.Up2Date
 D:\Workspace\WF_Project_LibraryManagement_EntityFramework\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\Workspace\WF_Project_LibraryManagement_EntityFramework\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Workspace\WF_Project_LibraryManagement_EntityFramework\WindowsFormsApp1\bin\Debug\DAL.dll.config

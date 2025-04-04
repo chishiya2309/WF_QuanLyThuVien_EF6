@@ -13,10 +13,10 @@ namespace BusinessAccessLayer
 {
     public class DBBooks
     {
-        DAL db = null;
+        DataAccessLayer.DAL db = null;
         public DBBooks()
         {
-            db = new DAL();
+            db = new DataAccessLayer.DAL();
         }
 
         public DataSet LaySach()

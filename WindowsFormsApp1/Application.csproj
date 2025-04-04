@@ -54,7 +54,8 @@
     <Reference Include="BusinessAccessLayer">
       <HintPath>..\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll</HintPath>
     </Reference>
-    <Reference Include="DAL">
+    <Reference Include="DAL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\BusinessAccessLayer\bin\Debug\DAL.dll</HintPath>
     </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">

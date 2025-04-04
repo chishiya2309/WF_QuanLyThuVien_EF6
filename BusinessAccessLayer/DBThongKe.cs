@@ -10,10 +10,10 @@ namespace BusinessAccessLayer
 {
     public class DBThongKe
     {
-        DAL db = null;
+        DataAccessLayer.DAL db = null;
         public DBThongKe()
         {
-            db = new DAL();
+            db = new DataAccessLayer.DAL();
         }
 
         public DataRow LayThongKeTongQuan()

@@ -11,11 +11,11 @@ namespace BusinessAccessLayer
 {
     public class DBMembers
     {
-        DAL db = null;
+        DataAccessLayer.DAL db = null;
 
         public DBMembers()
         {
-            db = new DAL();
+            db = new DataAccessLayer.DAL();
         }
 
         //CRUD cho danh muc

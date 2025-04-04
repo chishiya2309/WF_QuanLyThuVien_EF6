@@ -11,10 +11,10 @@ namespace BusinessAccessLayer
 {
     public class DBStaff
     {
-        DAL db = null;
+        DataAccessLayer.DAL db = null;
         public DBStaff()
         {
-            db = new DAL();
+            db = new DataAccessLayer.DAL();
         }
 
         // Lấy danh sách tất cả nhân viên
