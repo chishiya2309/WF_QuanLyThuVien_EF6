@@ -1,6 +1,7 @@
 ﻿using DAL;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity.Core.Metadata.Edm;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,5 +21,7 @@ namespace BusinessAccessLayer
             _context.Sachs.Add(sach);
             _context.SaveChanges();
         }
+
+        
     }
 }
