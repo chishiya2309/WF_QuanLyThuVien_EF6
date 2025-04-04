@@ -17,3 +17,8 @@ D:\Workspace\WF_Project_LibraryManagement_EntityFramework\BusinessAccessLayer\bi
 D:\Workspace\WF_Project_LibraryManagement_EntityFramework\BusinessAccessLayer\bin\Debug\DAL.pdb
 D:\Workspace\WF_Project_LibraryManagement_EntityFramework\BusinessAccessLayer\bin\Debug\DAL.dll.config
 D:\Workspace\WF_Project_LibraryManagement_EntityFramework\BusinessAccessLayer\obj\Debug\Business.395A7FC9.Up2Date
+D:\Workspace\WF_Project_LibraryManagement_EntityFramework\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll.config
+D:\Workspace\WF_Project_LibraryManagement_EntityFramework\BusinessAccessLayer\bin\Debug\EntityFramework.dll
+D:\Workspace\WF_Project_LibraryManagement_EntityFramework\BusinessAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Workspace\WF_Project_LibraryManagement_EntityFramework\BusinessAccessLayer\bin\Debug\EntityFramework.xml
+D:\Workspace\WF_Project_LibraryManagement_EntityFramework\BusinessAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
