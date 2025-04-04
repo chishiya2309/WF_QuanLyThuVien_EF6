@@ -1,0 +1,2 @@
+Bước 1: Thực thi file Database_LMS.sql trước
+Bước 2: vào lớp DAL sửa chuỗi kết nối 

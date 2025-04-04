@@ -1,0 +1,6 @@
+D:\Workspace\WF_Project_LibraryManagement\DAL\bin\Debug\DAL.dll
+D:\Workspace\WF_Project_LibraryManagement\DAL\bin\Debug\DAL.pdb
+D:\Workspace\WF_Project_LibraryManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Workspace\WF_Project_LibraryManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Workspace\WF_Project_LibraryManagement\DAL\obj\Debug\DAL.dll
+D:\Workspace\WF_Project_LibraryManagement\DAL\obj\Debug\DAL.pdb

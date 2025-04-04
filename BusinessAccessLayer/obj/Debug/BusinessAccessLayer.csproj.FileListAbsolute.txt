@@ -1,0 +1,9 @@
+D:\Workspace\WF_Project_LibraryManagement\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\Workspace\WF_Project_LibraryManagement\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\Workspace\WF_Project_LibraryManagement\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+D:\Workspace\WF_Project_LibraryManagement\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+D:\Workspace\WF_Project_LibraryManagement\BusinessAccessLayer\bin\Debug\DAL.dll
+D:\Workspace\WF_Project_LibraryManagement\BusinessAccessLayer\bin\Debug\DAL.pdb
+D:\Workspace\WF_Project_LibraryManagement\BusinessAccessLayer\obj\Debug\Business.395A7FC9.Up2Date
+D:\Workspace\WF_Project_LibraryManagement\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+D:\Workspace\WF_Project_LibraryManagement\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb

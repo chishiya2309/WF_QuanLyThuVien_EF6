@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|d:\\workspace\\wf_project_librarymanagement\\windowsformsapp1\\formeditcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|solutionrelative:formeditcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|d:\\workspace\\wf_project_librarymanagement\\windowsformsapp1\\formeditcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|solutionrelative:formeditcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|d:\\workspace\\wf_project_librarymanagement\\windowsformsapp1\\admincontrol_categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|solutionrelative:admincontrol_categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|d:\\workspace\\wf_project_librarymanagement\\windowsformsapp1\\admincontrol_categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|solutionrelative:admincontrol_categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|d:\\workspace\\wf_project_librarymanagement\\windowsformsapp1\\muonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|solutionrelative:muonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|d:\\workspace\\wf_project_librarymanagement\\windowsformsapp1\\muonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|solutionrelative:muonsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|d:\\workspace\\wf_project_librarymanagement\\windowsformsapp1\\formeditcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|solutionrelative:formeditcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|d:\\workspace\\wf_project_librarymanagement\\windowsformsapp1\\formaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|solutionrelative:formaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\formaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|solutionrelative:formaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\admincontrol_books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|solutionrelative:admincontrol_books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\admincontrol_books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|solutionrelative:admincontrol_books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\formaddmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|solutionrelative:formaddmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\formaddmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|solutionrelative:formaddmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\admincontrol_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|solutionrelative:admincontrol_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\admincontrol_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2CA1497-AEFB-4F87-B907-8AB4503CFE69}|Application.csproj|solutionrelative:admincontrol_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormEditCategory.cs",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\FormEditCategory.cs",
+              "RelativeDocumentMoniker": "FormEditCategory.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\FormEditCategory.cs",
+              "RelativeToolTip": "FormEditCategory.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAQwJcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:46:04.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormEditCategory.cs [Design]",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\FormEditCategory.cs",
+              "RelativeDocumentMoniker": "FormEditCategory.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\FormEditCategory.cs [Design]",
+              "RelativeToolTip": "FormEditCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:46:01.21Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminControl_Categories.cs",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\AdminControl_Categories.cs",
+              "RelativeDocumentMoniker": "AdminControl_Categories.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\AdminControl_Categories.cs",
+              "RelativeToolTip": "AdminControl_Categories.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAA8wGkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:42:23.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminControl_Categories.cs [Design]",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\AdminControl_Categories.cs",
+              "RelativeDocumentMoniker": "AdminControl_Categories.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\AdminControl_Categories.cs [Design]",
+              "RelativeToolTip": "AdminControl_Categories.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:42:16.497Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MuonSach.cs",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\MuonSach.cs",
+              "RelativeDocumentMoniker": "MuonSach.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\MuonSach.cs",
+              "RelativeToolTip": "MuonSach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwEAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:06:58.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MuonSach.cs [Design]",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\MuonSach.cs",
+              "RelativeDocumentMoniker": "MuonSach.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\MuonSach.cs [Design]",
+              "RelativeToolTip": "MuonSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:54:34.866Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormEditCategory.Designer.cs",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\FormEditCategory.Designer.cs",
+              "RelativeDocumentMoniker": "FormEditCategory.Designer.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\FormEditCategory.Designer.cs",
+              "RelativeToolTip": "FormEditCategory.Designer.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAowD0BAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:48:45.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormAddBook.cs",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\FormAddBook.cs",
+              "RelativeDocumentMoniker": "FormAddBook.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\FormAddBook.cs",
+              "RelativeToolTip": "FormAddBook.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAmwEwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:04:47.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormAddBook.cs [Design]",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\FormAddBook.cs",
+              "RelativeDocumentMoniker": "FormAddBook.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\FormAddBook.cs [Design]",
+              "RelativeToolTip": "FormAddBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:04:46.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminControl_Books.cs",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\AdminControl_Books.cs",
+              "RelativeDocumentMoniker": "AdminControl_Books.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\AdminControl_Books.cs",
+              "RelativeToolTip": "AdminControl_Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:11:35.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminControl_Books.cs [Design]",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\AdminControl_Books.cs",
+              "RelativeDocumentMoniker": "AdminControl_Books.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\AdminControl_Books.cs [Design]",
+              "RelativeToolTip": "AdminControl_Books.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:11:33.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormAddMember.cs",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\FormAddMember.cs",
+              "RelativeDocumentMoniker": "FormAddMember.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\FormAddMember.cs",
+              "RelativeToolTip": "FormAddMember.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:47:40.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormAddMember.cs [Design]",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\FormAddMember.cs",
+              "RelativeDocumentMoniker": "FormAddMember.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\FormAddMember.cs [Design]",
+              "RelativeToolTip": "FormAddMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:47:29.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminControl_Member.cs",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\AdminControl_Member.cs",
+              "RelativeDocumentMoniker": "AdminControl_Member.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\AdminControl_Member.cs",
+              "RelativeToolTip": "AdminControl_Member.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAASwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:47:09.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminControl_Member.cs [Design]",
+              "DocumentMoniker": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\AdminControl_Member.cs",
+              "RelativeDocumentMoniker": "AdminControl_Member.cs",
+              "ToolTip": "D:\\Workspace\\WF_Project_LibraryManagement\\WindowsFormsApp1\\AdminControl_Member.cs [Design]",
+              "RelativeToolTip": "AdminControl_Member.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:45:19.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
