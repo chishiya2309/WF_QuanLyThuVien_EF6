@@ -17,7 +17,7 @@ namespace DAL
         public string NhaXuatBan { get; set; }
         public int NamXuatBan { get; set; }
         public string NXB { get; set; }
-        public int SoLuong { get; set; }
+        public int SoBan { get; set; }
         public int KhaDung { get; set; }
         public string ViTri { get; set; }
 
